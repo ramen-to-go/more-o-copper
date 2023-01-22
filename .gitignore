@@ -44,6 +44,3 @@ hs_err_*.log
 replay_*.log
 *.hprof
 *.jfr
-
-# License-Template
-/LICENSE-TEMPLATE.md
