@@ -5,7 +5,7 @@ A small mod adding a bit more uses to vanilla copper!
 ## Story
 
 I found that copper kept piling up in my inventory while mining, so I thought to myself, what could I do to fix that?
-Thats how I ended up creating this mod. I also use it to get started with Quilt, since I haven't done anything in regards to modding for a long time.
+Thats how I ended up creating this mod. I also use it to get started with Fabric and Quilt, since I haven't done anything in regards to modding for a long time.
 
 ## License
 
