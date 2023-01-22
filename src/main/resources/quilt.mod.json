@@ -1,25 +1,25 @@
 {
 	"schema_version": 1,
 	"quilt_loader": {
-		"group": "com.example",
-		"id": "example_mod",
+		"group": "com.ramen_to_go.mods",
+		"id": "more_o_copper",
 		"version": "${version}",
 		"metadata": {
-			"name": "Mod Name",
-			"description": "A short description of your mod.",
+			"name": "More o' Copper!",
+			"description": "Small mod that adds some extra features to copper!",
 			"contributors": {
-				"Your name here": "Owner"
+				"ramen_to_go": "Developer"
 			},
 			"contact": {
-				"homepage": "https://example.com/",
-				"issues": "https://github.com/QuiltMC/quilt-template-mod/issues",
-				"sources": "https://github.com/QuiltMC/quilt-template-mod"
+				"homepage": "https://github.com/ramen-to-go",
+				"issues": "https://github.com/ramen-to-go/more-o-copper/issues",
+				"sources": "https://github.com/ramen-to-go/more-o-copper"
 			},
-			"icon": "assets/example_mod/icon.png"
+			"icon": "assets/more_o_copper/icon.png"
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "com.example.example_mod.ExampleMod"
+			"init": "com.ramen_to_go.mods.more_o_copper.MoreOCopper"
 		},
 		"depends": [
 			{
@@ -36,5 +36,5 @@
 			}
 		]
 	},
-	"mixin": "example_mod.mixins.json"
+	"mixin": "more_o_copper.mixins.json"
 }
