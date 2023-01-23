@@ -10,7 +10,8 @@
   ],
   "contact": {
     "homepage": "https://github.com/ramen-to-go",
-    "sources": "https://github.com/ramen-to-go/more-o-copper"
+    "sources": "https://github.com/ramen-to-go/more-o-copper",
+    "issues": "https://github.com/ramen-to-go/more-o-copper/issues"
   },
 
   "license": "LGPL-3.0-or-later",
