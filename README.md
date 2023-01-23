@@ -8,7 +8,7 @@ A small mod adding a bit more uses to vanilla copper!
 Made with 1 Diamond and 8 Copperblocks
 
 #### New Tools: Supercopper Tools
-Made with Iron and Supercopper Ingots in the Smithing Table
+Made with Iron Tools/Weapons and Supercopper Ingots in the Smithing Table
 
 ## Story
 
