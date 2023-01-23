@@ -1,13 +1,19 @@
-# More O' Copper
+# More O' Copper!
 
 A small mod adding a bit more uses to vanilla copper!
 
+## Current Features 
+
+#### New Ingot Type: Supercopper 
+Made with 1 Diamond and 8 Copperblocks
+
+#### New Tools: Supercopper Tools
+Made with Iron and Supercopper Ingots in the Smithing Table
+
 ## Story
 
-I found that copper kept piling up in my inventory while mining, so I thought to myself, what could I do to fix that?
-Thats how I ended up creating this mod. I also use it to get started with Fabric and Quilt, since I haven't done anything in regards to modding for a long time.
+For a long time I wanted to start to learn some Minecraft Modding, but I never really started until recently. I wasn't sure what exactly I wanted to do so I started with the basics; in this case an Ingot and Tools. I can't guarantee that I will maintain the Mod, but I will definetly use it to learn more about Modding in Minecraft!
 
 ## License
 
-Currently the mod is marked as "All Rights Reserved".
-The mod is planned to release with an MIT License as soon as I think it is ready to get a public release. (Currently the mod is in Alpha, or it should be, if you're reading this after I released the mod I might've forgotten to change this readme file)
+The mod is under the LGPL-3.0-or-later licence.
