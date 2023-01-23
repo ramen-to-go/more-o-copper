@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:iron_hoe"
+    },
+    "addition": {
+        "item": "more_o_copper:supercopper_ingot"
+    },
+    "result": {
+        "item": "more_o_copper:supercopper_hoe"
+    }
+}

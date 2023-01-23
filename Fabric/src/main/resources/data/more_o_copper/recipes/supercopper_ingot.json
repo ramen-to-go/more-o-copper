@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#_#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:copper_block"
+        },
+        "_": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "more_o_copper:supercopper_ingot"
+    }
+}
