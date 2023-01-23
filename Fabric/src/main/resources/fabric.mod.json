@@ -13,7 +13,7 @@
     "sources": "https://github.com/ramen-to-go/more-o-copper"
   },
 
-  "license": "All Rights Reserved",
+  "license": "LGPL-3.0-or-later",
   "icon": "assets/more_o_copper/icon.png",
 
   "environment": "*",
