@@ -1,0 +1,40 @@
+{
+	"schema_version": 1,
+	"quilt_loader": {
+		"group": "com.ramen_to_go.mods",
+		"id": "more_o_copper",
+		"version": "${version}",
+		"metadata": {
+			"name": "More o' Copper!",
+			"description": "Small mod that adds some extra features to copper!",
+			"contributors": {
+				"ramen_to_go": "Developer"
+			},
+			"contact": {
+				"homepage": "https://github.com/ramen-to-go",
+				"issues": "https://github.com/ramen-to-go/more-o-copper/issues",
+				"sources": "https://github.com/ramen-to-go/more-o-copper"
+			},
+			"icon": "assets/more_o_copper/icon.png"
+		},
+		"intermediate_mappings": "net.fabricmc:intermediary",
+		"entrypoints": {
+			"init": "com.ramen_to_go.mods.more_o_copper.MoreOCopper"
+		},
+		"depends": [
+			{
+				"id": "quilt_loader",
+				"versions": ">=0.17.6-"
+			},
+			{
+				"id": "quilted_fabric_api",
+				"versions": ">=5.0.0-"
+			},
+			{
+				"id": "minecraft",
+				"versions": ">=1.19.3"
+			}
+		]
+	},
+	"mixin": "more_o_copper.mixins.json"
+}

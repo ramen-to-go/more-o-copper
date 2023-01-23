@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "more_o_copper",
+  "version": "${version}",
+
+  "name": "More O' Copper",
+  "description": "Small mod that adds more features to copper",
+  "authors": [
+    "ramen_to_go"
+  ],
+  "contact": {
+    "homepage": "https://github.com/ramen-to-go",
+    "sources": "https://github.com/ramen-to-go/more-o-copper"
+  },
+
+  "license": "All Rights Reserved",
+  "icon": "assets/more_o_copper/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.ramen_to_go.more_o_copper.MoreOCopper"
+    ]
+  },
+  "mixins": [
+    "more_o_copper.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.11",
+    "fabric-api": "*",
+    "minecraft": "~1.19.3",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
